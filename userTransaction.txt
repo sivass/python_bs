@@ -1,0 +1,13 @@
+1|001|Deposit|100|0|100
+2|001|Deposit|200|0|300
+3|002|Deposit|100|0|100
+4|001|Deposit|100|0|400
+5|001|Withdrawal|0|50|350
+6|001|Deposit|50|0|400
+7|001|Withdrawal|0|150|250
+8|001|Deposit|50|0|300
+9|002|Deposit|100|0|200
+10|002|Withdrawal|0|50|150
+11|002|Deposit|50|0|200
+12|002|Withdrawal|0|100|100
+13|003|Deposit|500|0|500
